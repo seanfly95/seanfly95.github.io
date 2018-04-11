@@ -5,9 +5,9 @@
   <subtitle>天道酬勤</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://www.zhujianzhou.cn/"/>
+  <link href="https://zhujianzhou.cn/"/>
   <updated>2018-04-10T16:11:13.523Z</updated>
-  <id>https://www.zhujianzhou.cn/</id>
+  <id>https://zhujianzhou.cn/</id>
   
   <author>
     <name>JZ_Zhu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>[解决方案]未知2136143处的非法输入序列</title>
-    <link href="https://www.zhujianzhou.cn/2018/04/11/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E6%9C%AA%E7%9F%A52136143%E5%A4%84%E7%9A%84%E9%9D%9E%E6%B3%95%E8%BE%93%E5%85%A5%E5%BA%8F%E5%88%97/"/>
-    <id>https://www.zhujianzhou.cn/2018/04/11/解决方案-未知2136143处的非法输入序列/</id>
+    <link href="https://zhujianzhou.cn/2018/04/11/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E6%9C%AA%E7%9F%A52136143%E5%A4%84%E7%9A%84%E9%9D%9E%E6%B3%95%E8%BE%93%E5%85%A5%E5%BA%8F%E5%88%97/"/>
+    <id>https://zhujianzhou.cn/2018/04/11/解决方案-未知2136143处的非法输入序列/</id>
     <published>2018-04-10T16:10:30.000Z</published>
     <updated>2018-04-10T16:11:13.523Z</updated>
     
@@ -34,17 +34,17 @@
     
     </summary>
     
-      <category term="日常" scheme="https://www.zhujianzhou.cn/categories/%E6%97%A5%E5%B8%B8/"/>
+      <category term="日常" scheme="https://zhujianzhou.cn/categories/%E6%97%A5%E5%B8%B8/"/>
     
     
-      <category term="Hadoop" scheme="https://www.zhujianzhou.cn/tags/Hadoop/"/>
+      <category term="Hadoop" scheme="https://zhujianzhou.cn/tags/Hadoop/"/>
     
   </entry>
   
   <entry>
     <title>[教程]centos6.3从python2.6升级到python2.7</title>
-    <link href="https://www.zhujianzhou.cn/2018/04/11/%E6%95%99%E7%A8%8B-centos6-3%E4%BB%8Epython2-6%E5%8D%87%E7%BA%A7%E5%88%B0python2-7/"/>
-    <id>https://www.zhujianzhou.cn/2018/04/11/教程-centos6-3从python2-6升级到python2-7/</id>
+    <link href="https://zhujianzhou.cn/2018/04/11/%E6%95%99%E7%A8%8B-centos6-3%E4%BB%8Epython2-6%E5%8D%87%E7%BA%A7%E5%88%B0python2-7/"/>
+    <id>https://zhujianzhou.cn/2018/04/11/教程-centos6-3从python2-6升级到python2-7/</id>
     <published>2018-04-10T16:07:24.000Z</published>
     <updated>2018-04-10T16:09:34.798Z</updated>
     
@@ -60,17 +60,17 @@
     
     </summary>
     
-      <category term="日常" scheme="https://www.zhujianzhou.cn/categories/%E6%97%A5%E5%B8%B8/"/>
+      <category term="日常" scheme="https://zhujianzhou.cn/categories/%E6%97%A5%E5%B8%B8/"/>
     
     
-      <category term="linux" scheme="https://www.zhujianzhou.cn/tags/linux/"/>
+      <category term="linux" scheme="https://zhujianzhou.cn/tags/linux/"/>
     
   </entry>
   
   <entry>
     <title>[解决方案]VMWare Workstation 12 Pro磁盘占用率百分之百</title>
-    <link href="https://www.zhujianzhou.cn/2018/04/11/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-VMWare-Workstation-12-Pro%E7%A3%81%E7%9B%98%E5%8D%A0%E7%94%A8%E7%8E%87%E7%99%BE%E5%88%86%E4%B9%8B%E7%99%BE/"/>
-    <id>https://www.zhujianzhou.cn/2018/04/11/解决方案-VMWare-Workstation-12-Pro磁盘占用率百分之百/</id>
+    <link href="https://zhujianzhou.cn/2018/04/11/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-VMWare-Workstation-12-Pro%E7%A3%81%E7%9B%98%E5%8D%A0%E7%94%A8%E7%8E%87%E7%99%BE%E5%88%86%E4%B9%8B%E7%99%BE/"/>
+    <id>https://zhujianzhou.cn/2018/04/11/解决方案-VMWare-Workstation-12-Pro磁盘占用率百分之百/</id>
     <published>2018-04-10T16:03:09.000Z</published>
     <updated>2018-04-10T16:05:03.012Z</updated>
     
@@ -85,10 +85,10 @@
     
     </summary>
     
-      <category term="日常" scheme="https://www.zhujianzhou.cn/categories/%E6%97%A5%E5%B8%B8/"/>
+      <category term="日常" scheme="https://zhujianzhou.cn/categories/%E6%97%A5%E5%B8%B8/"/>
     
     
-      <category term="linux" scheme="https://www.zhujianzhou.cn/tags/linux/"/>
+      <category term="linux" scheme="https://zhujianzhou.cn/tags/linux/"/>
     
   </entry>
   
