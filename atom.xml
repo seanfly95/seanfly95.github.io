@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zhujianzhou.cn/"/>
-  <updated>2018-05-25T08:27:30.079Z</updated>
+  <updated>2018-04-10T16:11:13.523Z</updated>
   <id>https://zhujianzhou.cn/</id>
   
   <author>
@@ -15,31 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Altium Design 18中英文对照</title>
-    <link href="https://zhujianzhou.cn/2018/05/25/Altium-Design-18%E4%B8%AD%E8%8B%B1%E6%96%87%E5%AF%B9%E7%85%A7/"/>
-    <id>https://zhujianzhou.cn/2018/05/25/Altium-Design-18中英文对照/</id>
-    <published>2018-05-25T07:49:53.000Z</published>
-    <updated>2018-05-25T08:27:30.079Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="Altium-Design-18中英文对照"><a href="#Altium-Design-18中英文对照" class="headerlink" title="Altium Design 18中英文对照"></a>Altium Design 18中英文对照</h3><p>Maupassant最初是由Cho大神为Typecho平台设计开发的一套响应式模板，体积只有20KB，在各种尺寸的设备上表现出色。由于其简洁大气的风格受到许多用户喜爱，目前也已经被移植到了多个平台上，例如：</p><pre><code>* </code></pre><p>Typecho：<a href="https://github.com/pagecho/maupassant/" target="_blank" rel="noopener">https://github.com/pagecho/maupassant/</a></p><pre><code>* </code></pre><p>Octopress：<a href="https://github.com/pagecho/mewpassant/" target="_blank" rel="noopener">https://github.com/pagecho/mewpassant/</a></p><pre><code>* </code></pre><p>Farbox：<a href="https://github.com/pagecho/Maupassant-farbox/" target="_blank" rel="noopener">https://github.com/pagecho/Maupassant-farbox/</a></p><pre><code>* </code></pre><p>Wordpress：<a href="https://github.com/iMuFeng/maupassant/" target="_blank" rel="noopener">https://github.com/iMuFeng/maupassant/</a></p><pre><code>* </code></pre><p>Ghost: <a href="https://github.com/LjxPrime/maupassant/" target="_blank" rel="noopener">https://github.com/LjxPrime/maupassant/</a></p><p>我在一年多以前使用Typecho博客程序的时候就用过这套主题（历史文章），后来更换至Hexo后不得不暂时放弃它，直到几个月前发现了由icylogic移植到Hexo的版本，喜出望外，立刻回归到Maupassant。<br>不过由icylogic最初移植的版本只保留了主题最基本的模块，跟Cho自己发布的Farbox版类似，无法满足大部分爱折腾的Hexoer的需要。因此，在这半年的使用过程中，我将icylogic的源码fork过来，陆陆续续添加了一些想要的功能，目前能够实现的功能已经跟当初Typecho平台上的版本差不多了。<br>我已经将修改后的代码发布在Github上，有兴趣的朋友可以下载试用，并欢迎反馈问题：<br><a href="https://github.com/tufu9441/maupassant-hexo" target="_blank" rel="noopener">https://github.com/tufu9441/maupassant-hexo</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h3 id=&quot;Altium-Design-18中英文对照&quot;&gt;&lt;a href=&quot;#Altium-Design-18中英文对照&quot; class=&quot;headerlink&quot; title=&quot;Altium Design 18中英文对照&quot;&gt;&lt;/a&gt;Altium Design 18中英文对照&lt;/
-      
-    
-    </summary>
-    
-      <category term="嵌入式" scheme="https://zhujianzhou.cn/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
-    
-    
-      <category term="备忘" scheme="https://zhujianzhou.cn/tags/%E5%A4%87%E5%BF%98/"/>
-    
-  </entry>
   
   <entry>
     <title>[解决方案]未知2136143处的非法输入序列</title>
