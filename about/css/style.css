@@ -12,7 +12,7 @@ a:hover,a:focus{color:#74777b;text-decoration: none;}
 .progress{
     height: 30px;
     line-height: 35px;
-    background: #809495;
+    background: #555555;
     box-shadow: none;
     padding: 6px;
     margin-top:20px;
@@ -26,7 +26,7 @@ a:hover,a:focus{color:#74777b;text-decoration: none;}
     margin-top:8px;
 }
 .progressbar-title{
-    color:#d8dedc;
+    color:#555555;
     font-size:15px;
     margin:5px 0;
     font-weight: bold;
