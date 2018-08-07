@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zhujianzhou.cn/"/>
-  <updated>2018-07-29T14:41:27.553Z</updated>
+  <updated>2018-08-07T15:35:23.729Z</updated>
   <id>https://zhujianzhou.cn/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>冒泡排序</title>
+    <link href="https://zhujianzhou.cn/2018/08/07/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/"/>
+    <id>https://zhujianzhou.cn/2018/08/07/冒泡排序/</id>
+    <published>2018-08-07T15:34:12.000Z</published>
+    <updated>2018-08-07T15:35:23.729Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br></pre></td><td class="code"><pre><span class="line">#include&lt;stdio.h&gt;</span><br><span class="line">int main()&#123;</span><br><span class="line">int n;</span><br><span class="line">int buf[100];//定义将要使用的变量n，并用buf【100】 来保存将要排序的数字 </span><br><span class="line">while(scanf(&quot;%d&quot;,&amp;n)!=EOF)&#123;//输入n，并实现多组数据的输入 </span><br><span class="line">for(int i=0;i&lt;n;i++)&#123;</span><br><span class="line">scanf(&quot;%d&quot;,&amp;buf[i]);</span><br><span class="line">&#125;//输入待排序数字 </span><br><span class="line">for(int i=0;i&lt;n;i++)&#123;</span><br><span class="line">for(int j=0;j&lt;n-1-i;j++)&#123;</span><br><span class="line">if(buf[j]&gt;buf[j+1])&#123;</span><br><span class="line">int tmp=buf[j];</span><br><span class="line">buf[j]=buf[j+1];</span><br><span class="line">buf[j+1]=tmp;</span><br><span class="line">&#125;</span><br><span class="line">&#125;</span><br><span class="line">&#125;//冒泡排序主体 </span><br><span class="line">for(int i=0;i&lt;n;i++)&#123;</span><br><span class="line">printf(&quot;%d &quot;,buf[i]);</span><br><span class="line">&#125;//输出完成排序后的数字，注意格式 </span><br><span class="line">printf(&quot;\n&quot;);</span><br><span class="line">&#125;</span><br><span class="line">return 0;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class
+      
+    
+    </summary>
+    
+      <category term="学习" scheme="https://zhujianzhou.cn/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="王道" scheme="https://zhujianzhou.cn/tags/%E7%8E%8B%E9%81%93/"/>
+    
+  </entry>
   
   <entry>
     <title>线性表结构的实现及基本操作（C语言）</title>
