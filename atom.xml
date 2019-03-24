@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zhujianzhou.cn/"/>
-  <updated>2018-08-07T15:35:23.729Z</updated>
+  <updated>2019-03-24T08:42:48.300Z</updated>
   <id>https://zhujianzhou.cn/</id>
   
   <author>
@@ -15,6 +15,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://zhujianzhou.cn/2019/03/24/test/"/>
+    <id>https://zhujianzhou.cn/2019/03/24/test/</id>
+    <published>2019-03-24T08:42:48.000Z</published>
+    <updated>2019-03-24T08:42:48.300Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>冒泡排序</title>
